@@ -51,3 +51,4 @@ This command will start the development server
 ```
 npm run dev
 ```
+<img width="705" alt="image" src="https://github.com/mostofa-s-cse/Nodejs-Typescript-Boilerplate/assets/98970470/1190b659-b24b-4c48-8bfc-2ade07d87c8e">
